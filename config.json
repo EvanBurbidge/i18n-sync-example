@@ -1,0 +1,7 @@
+{
+  "s3Endpoint": "http://cdn.i18ncore-api.com",
+  "region": "eu-west-1",
+  "locations": {
+   "en": "google://i18n-sync-translations/en.json"
+  }
+}
